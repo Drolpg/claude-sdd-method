@@ -11,7 +11,7 @@
       "name": "sdd-method",
       "source": "./plugins/sdd-method",
       "description": "SDD + TDD em qualquer linguagem, com arquitetura proporcional ao problema (de camadas a DDD completo), decisões registradas, Git padronizado e README com diagramas.",
-      "version": "0.2.0"
+      "version": "0.2.1"
     }
   ]
 }

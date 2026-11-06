@@ -2,6 +2,14 @@
 
 Formato: [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/); versões em [SemVer](https://semver.org/lang/pt-BR/).
 
+## [0.2.1] — 2026-11-06
+
+### Mudado
+
+- README: instruções de instalação em outras máquinas e no WSL, acesso a repositório privado, atualização e remoção,
+  plugin ligado a um projeto por `.claude/settings.json` e instalação a partir de cópia local.
+- Referência a um repositório privado de cliente trocada por uma descrição genérica nos exemplos.
+
 ## [0.2.0] — 2026-11-06
 
 O método deixa de ser centrado em DDD: a espinha passa a ser SDD + TDD, e a arquitetura é escolhida por avaliação,
