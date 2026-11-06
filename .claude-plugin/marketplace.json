@@ -1,0 +1,17 @@
+{
+  "name": "drolpg-methods",
+  "owner": {
+    "name": "Drolpg"
+  },
+  "metadata": {
+    "description": "Métodos de trabalho empacotados para o Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "sdd-method",
+      "source": "./plugins/sdd-method",
+      "description": "SDD + TDD em qualquer linguagem, com arquitetura proporcional ao problema (de camadas a DDD completo), decisões registradas, Git padronizado e README com diagramas.",
+      "version": "0.2.0"
+    }
+  ]
+}

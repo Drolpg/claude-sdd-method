@@ -1,0 +1,9 @@
+{
+  "name": "sdd-method",
+  "version": "0.2.0",
+  "description": "Método de projeto com SDD e TDD em qualquer linguagem: avaliação de arquitetura proporcional (de camadas a DDD completo), decisões registradas, convenção de Git, README com diagramas Mermaid, segurança e auditoria de coerência.",
+  "author": {
+    "name": "Drolpg"
+  },
+  "keywords": ["sdd", "tdd", "architecture", "ddd", "hexagonal", "adr", "documentation", "conventional-commits"]
+}
